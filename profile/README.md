@@ -4,7 +4,7 @@
 {
     "name": "권은지",
     "phone": "010-6543-2971",
-    "email": "panda.ohgiraffers@gmail.com"
+    "email": "panda@helloworldlabs.kr"
 }
 ```
 ## 수업 내용
