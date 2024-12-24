@@ -11,5 +11,5 @@
 > 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
 
 ## Publishing
-### [https://github.com/20241231-EZEN/01_html](https://github.com/20241231-EZEN/01_html.git)
+### [01_html](https://github.com/20241231-EZEN/01_html.git)
 
