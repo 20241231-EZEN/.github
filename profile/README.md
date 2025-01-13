@@ -15,4 +15,4 @@
 ### [02_css](https://github.com/20241231-EZEN/02_css.git)
 ## Language
 ### [03_javascript](https://github.com/20241231-EZEN/03_javascript.git)
-### [03_javascript_web](https://github.com/20241231-EZEN/04_javascript-web.git)
+### [04_javascript_web](https://github.com/20241231-EZEN/04_javascript-web.git)
